@@ -1,0 +1,19 @@
+body{
+    text-align: center;
+    font-family: "Arial" , Arial, sans-serif;
+    display: block;
+    background-image: url("img/background.jpg");
+    color: white;
+}
+#startbutton {
+
+    text-align: center;
+
+}
+#img {
+    border-style: double; border-color: black; border-width: 8px; margin-bottom: 10px;
+}
+
+* {
+    line-height: 2;
+}
